@@ -1,0 +1,14 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\System Commands\http post project\bin\Debug\SystemCommandsFunctions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\System Commands\http post project\bin\Debug\SystemCommandsFunctions.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\System Commands\http post project\bin\Debug\SystemCommandsFunctions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\System Commands\http post project\bin\Debug\SystemCommandsFunctions.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\System Commands\http post project\obj\x86\Debug\SystemCommandsFunctions.pdb

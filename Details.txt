@@ -1,0 +1,10 @@
+GET PC INFO ("Username", "User DomainName", "System Directory", "OS Version", "Machine Name", "Current Directory", "OS Platform", "Processor Count", "Processor ID", "HD Model", "HD Manufacturer", "HD Signature", "HD TotalHeads", "HDD Serial Num", "BIOS Maker", "Physical Memory", "CPU Speed", "CPU Maker", "Program Files Path 32/64 Bit")
+
+GET FILE INFO ("File Name", "Date Time Created", "Extension", "Total Size", "File Path", "Full File Name", "Created Date/Time", "Last Accessed Date/Time", "Last Modified Date/Time")
+
+GET PC FONTS
+GET PC_IP
+MONITOR RUNNING PROCESSES ("Browser", "Bot", "UBot Studio" or select the handle name of your process to monitor) logs to file
+
+
+15.00
